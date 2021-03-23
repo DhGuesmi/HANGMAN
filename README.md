@@ -38,6 +38,7 @@ https://codereview.stackexchange.com/questions/171190/beginners-python-hangman-c
 The words list was taken from this repo:
 
 https://github.com/dwyl/english-words#list-of-english-words
+
 Which in it's turn was taken from this link (excel file):
 
 https://web.archive.org/web/20131118073324/http://www.infochimps.com/datasets/word-list-350000-simple-english-words-excel-readable
