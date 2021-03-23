@@ -25,6 +25,7 @@ To play the game you'll need to download both the python file and the txt file a
 
 The game was inspired from jebrain academy, you can find them here:
 https://www.jetbrains.com/academy/
+
 And my profile here:
 https://hyperskill.org/profile/80701267
 
