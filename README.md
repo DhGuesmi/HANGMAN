@@ -46,6 +46,3 @@ https://github.com/dwyl/english-words#list-of-english-words
 Which in it's turn was taken from this link (excel file):
 
 https://web.archive.org/web/20131118073324/http://www.infochimps.com/datasets/word-list-350000-simple-english-words-excel-readable
-
-## License
-**Just credit me and we're GUCCI** (I don't own GUCCI and this isn't an ad)
