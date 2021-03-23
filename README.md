@@ -23,7 +23,8 @@ To play the game you'll need to download both the python file and the txt file a
 
 ## Credits
 
-The game was inspired from jebrain academy, you can find them here:
+The game was inspired from jetbrain academy as they guided me step by step to complete this beginner project.
+You can find them here:
 https://www.jetbrains.com/academy/
 
 And my profile here:
