@@ -4,8 +4,13 @@
 H A N G M A N is a regular hangman game  developed in python.
 The game will choose a random english word and you will have to guess it before you die! (joke no one will!).
 
-If you don't know the game you can check this link from wikipedia:
-https://en.wikipedia.org/wiki/Hangman_(game)
+To quote wikipedia:
+> Hangman is a paper and pencil guessing game 
+> for two or more players.
+> One player thinks of a word, phrase or sentence
+> and the other(s) tries to guess it by suggesting 
+> letters within a certain number of guesses.
+More about it here: https://en.wikipedia.org/wiki/Hangman_(game)
 
 ## The game rules are simple:
 - You have 7 lives and you have to guess a random word
